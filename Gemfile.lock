@@ -76,7 +76,7 @@ PLATFORMS
 
 DEPENDENCIES
   jekyll
-  redcarpet (~> 3.3)
+  kramdown (~> 1.13)
   rouge (~> 2.0)
 
 BUNDLED WITH
